@@ -1,0 +1,19 @@
+{
+  "name": "vouchermanager",
+  "version": "1.0.0",
+  "description": "Node JS Boiler Plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opemipoVRB/VoucherManager.git"
+  },
+  "author": "Durodola Opemipo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opemipoVRB/VoucherManager/issues"
+  },
+  "homepage": "https://github.com/opemipoVRB/VoucherManager#readme"
+}

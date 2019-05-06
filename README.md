@@ -1,2 +1,2 @@
 # VoucherManager
-Node JS Broiler Plate
+Node JS Boiler Plate
